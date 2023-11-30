@@ -1,0 +1,26 @@
+﻿#canvas-titlescreen {
+    width: 1280px;
+    height: 720px;
+    border: 1px solid #000000;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#play-button {
+    position: absolute;
+    border: 1px solid #1e90ff;
+    padding: 30px 50px;
+    font-size: 25px;
+    font-family: "Papyrus";
+}
+#options-button {
+    position: absolute;
+    border: 1px solid #1e90ff;
+    padding: 30px 50px;
+    font-size: 25px;
+    font-family: "Papyrus";
+    border-radius: 8px;
+}
+

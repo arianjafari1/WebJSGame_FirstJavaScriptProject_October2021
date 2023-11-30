@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Let's play my video game.</title>
+
+    <link rel="stylesheet" href="StyleSheet.css">
+</head>
+<body>
+    <canvas id="canvas-titlescreen" style="z-index:1"></canvas>
+    <input type="button" id="play-button" style="z-index:2; position:absolute;" onclick="playGame()" value="Play the game" />
+    <!--z-index:1/2 is used to overlap the HTML
+    button on top of canvas-->
+    <input type="button" id="options-button" style="z-index:2; position:absolute;" onclick="openOptions()" value="Options- How to play" />
+    <script src="JavaScript.js"></script>
+</body>
+</html>
