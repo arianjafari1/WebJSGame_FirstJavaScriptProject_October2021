@@ -1,5 +1,5 @@
 # WebJSGame_FirstJavaScriptProject_October2021
-A little JavaScript game that I made in a few days, my first time in JavaScript, I made this game to get used to JavaScript.
+A little JavaScript game that I made in a few days, my first time in JavaScript, I made this game to get used to JavaScript and web technology in general.
 
 Fun little game that I made in October 2021, the first time I touched JavaScript, and the first time I made a web game, I liked messing around in this to get a feel for what Javascript feels like.
 The game was finished in a few days, the code is very clean and readable, it's a good showcase that I can work in JavaScript and learn programming and scripting languages quickly.
